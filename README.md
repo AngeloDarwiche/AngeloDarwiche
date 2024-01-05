@@ -3,7 +3,8 @@
 I'm a student in the Game Development program at Malmö University, where I've developed small games and projects in C# and C++. 
 I've worked with the following:
 - Game Designer for multiple projects as lead game designer along with [@EdgarSjoberg](https://github.com/EdgarSjoberg)
-- 3D modelling in Maya and Blender Databases
+- 3D modelling in Maya and Blender
+- Databases
 - Multithreading
 - Datastructures and Algorithms
 - Planning and structuring project using System Development standards
