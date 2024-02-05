@@ -21,4 +21,4 @@ These are some of the talented people I've collaborated with so far:
 Beyond schoolwork and hobbies, I am also working on a passion project called Project Cyberfantasy. You can check out our progress by following this [link](https://github.com/EdgarSjoberg/ProjectCyberfantasy).
 For this project, we are learning Unreal Engine 5 and Visual Scripting. All assets, music and more will be developed by us internally with the aid from friends and collaborators. 
 
-If you wanna learn more about be, then check out my socials!
+If you wanna learn more about me, then check out my socials!
